@@ -7751,21 +7751,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:story/root": {
     "criteria": {
-      "get_stone": "2025-05-10 03:17:47 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/sapling": {
-    "criteria": {
-      "requirement": "2025-05-10 03:14:53 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/cobblemania": {
-    "criteria": {
-      "requirement": "2025-05-10 03:17:47 +0000"
+      "crafting_table": "2025-05-10 03:08:08 +0000"
     },
     "done": true
   },
@@ -7775,21 +7763,15 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-05-10 03:14:53 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_3": {
     "criteria": {
       "requirement": "2025-05-10 03:15:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-05-10 03:08:08 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/dirt_2": {
-    "criteria": {
-      "requirement": "2025-05-10 03:21:11 +0000"
     },
     "done": true
   },
@@ -7799,9 +7781,39 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-10 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-05-10 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2025-05-10 03:21:11 +0000"
+    },
+    "done": true
+  },
   "obs:phases/dirt_3": {
     "criteria": {
       "requirement": "2025-05-10 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-05-10 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-05-10 03:41:51 +0000"
     },
     "done": true
   },
