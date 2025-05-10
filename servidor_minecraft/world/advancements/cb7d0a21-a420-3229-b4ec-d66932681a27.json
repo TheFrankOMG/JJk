@@ -6767,6 +6767,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2025-05-10 03:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
@@ -7490,6 +7496,12 @@
   "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2025-05-10 03:09:53 +0000"
     },
     "done": true
   },
