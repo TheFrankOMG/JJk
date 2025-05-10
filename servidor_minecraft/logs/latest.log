@@ -209,3 +209,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02:40:59] [Server thread/INFO]: Done (0.503s)! For help, type "help"
 [02:40:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [02:40:59] [Server thread/INFO]: home/codespace/.python/current/bin/python3 "/workspaces/JJk/msx (1).py"<--[HERE]
+[02:52:33] [Server thread/INFO]: Frank3033[/127.104.177.100:56437] logged in with entity id 2 at (0.5, 61.0, 0.5)
+[02:52:33] [Server thread/INFO]: Frank3033 joined the game
+[02:52:34] [Server thread/INFO]: Frank3033 has completed the challenge [Tips & Tricks]
+[02:52:34] [Server thread/INFO]: Frank3033 has reached the goal [Welcome to OneBlock]
+[02:52:39] [Server thread/INFO]: Frank3033 has completed the challenge [Progress]
+[02:54:58] [Server thread/INFO]: Frank3033 has made the advancement [New Journey]
+[03:01:28] [Server thread/INFO]: Sahankiel071727[/127.236.21.17:37633] logged in with entity id 28 at (0.5, 61.0, -0.5)
+[03:01:28] [Server thread/INFO]: Sahankiel071727 joined the game
+[03:01:28] [Server thread/INFO]: Sahankiel071727 has completed the challenge [Tips & Tricks]
+[03:01:28] [Server thread/INFO]: Sahankiel071727 has reached the goal [Welcome to OneBlock]
