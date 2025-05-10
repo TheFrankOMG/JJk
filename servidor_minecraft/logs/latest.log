@@ -212,3 +212,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [04:19:48] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/2, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [04:19:48] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/2, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [04:23:27] [Server thread/INFO]: Sahankiel071727 has made the advancement [What a Deal!]
+[04:39:22] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/5, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1000.00, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[04:39:22] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/5, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1000.00, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[04:44:43] [Server thread/INFO]: Sahankiel071727 has made the advancement [Step 5]
+[04:47:47] [Server thread/INFO]: Sahankiel071727 lost connection: Disconnected
+[04:47:47] [Server thread/INFO]: Sahankiel071727 left the game
