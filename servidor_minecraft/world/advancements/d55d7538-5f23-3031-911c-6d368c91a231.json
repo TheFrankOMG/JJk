@@ -7787,9 +7787,21 @@
     },
     "done": true
   },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2025-05-10 03:21:11 +0000"
+    },
+    "done": true
+  },
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2025-05-10 03:28:18 +0000"
     },
     "done": true
   },
