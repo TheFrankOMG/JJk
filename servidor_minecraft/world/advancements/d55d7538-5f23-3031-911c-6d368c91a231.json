@@ -7805,6 +7805,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-05-10 03:41:51 +0000"
+    },
+    "done": true
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2025-05-10 03:42:20 +0000"
@@ -7817,9 +7823,33 @@
     },
     "done": true
   },
-  "obs:phases/phase_4": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "requirement": "2025-05-10 03:41:51 +0000"
+      "iron": "2025-05-10 04:05:24 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-05-10 04:05:24 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_4": {
+    "criteria": {
+      "requirement": "2025-05-10 04:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-10 04:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 04:23:27 +0000"
     },
     "done": true
   },
