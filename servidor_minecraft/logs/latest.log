@@ -226,3 +226,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:48:23] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/2, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [03:55:43] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/136, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [03:55:43] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/136, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[04:01:32] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/275, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[04:01:32] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/275, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[04:05:24] [Server thread/INFO]: Sahankiel071727 has made the advancement [I am Iron M...]
+[04:05:24] [Server thread/INFO]: Sahankiel071727 has made the advancement [Acquire Hardware]
+[04:07:21] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/406, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[04:07:21] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/406, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
