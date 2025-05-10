@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-10 03:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
@@ -5183,6 +5189,12 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-05-10 03:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
@@ -5381,6 +5393,12 @@
     },
     "done": true
   },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-05-10 03:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
@@ -5426,6 +5444,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2025-05-10 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-10 03:18:44 +0000"
     },
     "done": true
   },
@@ -6770,6 +6794,18 @@
   "obs:phases/phase_1": {
     "criteria": {
       "requirement": "2025-05-10 03:01:48 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2025-05-10 03:12:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2025-05-10 03:15:58 +0000"
     },
     "done": true
   },
