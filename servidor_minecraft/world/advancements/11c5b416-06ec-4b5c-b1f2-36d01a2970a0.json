@@ -7937,5 +7937,23 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2025-05-13 03:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-13 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-05-13 03:30:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
