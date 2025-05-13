@@ -7898,5 +7898,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-13 03:13:55 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2025-05-13 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-05-13 03:13:55 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3953
 }

@@ -218,3 +218,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:11:54] [Server thread/INFO]: Frank3033 has made the advancement [Over Complication]
 [03:17:59] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/186, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [03:17:59] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/186, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:25:48] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/391, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:25:48] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/391, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:25:59] [Server thread/INFO]: Sahankiel071727 has made the advancement [Over Complication]
