@@ -2411,6 +2411,12 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-05-13 01:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_the_recipe": "2025-05-13 01:23:36 +0000"
@@ -5456,6 +5462,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2025-05-13 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-13 01:36:39 +0000"
     },
     "done": true
   },
