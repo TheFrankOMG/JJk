@@ -211,3 +211,14 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [00:29:04] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/2, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1000.08, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [00:30:33] [Server thread/INFO]: Sahankiel071727[/127.19.237.253:35831] logged in with entity id 3 at (-0.18003972208425245, 60.5, -1.0240694175257983)
 [00:30:33] [Server thread/INFO]: Sahankiel071727 joined the game
+[00:39:38] [Server thread/INFO]: Frank3033[/127.119.17.197:36963] logged in with entity id 73 at (0.16172860315543802, 60.5, -0.4129776195297449)
+[00:39:38] [Server thread/INFO]: Frank3033 joined the game
+[00:40:51] [Server thread/INFO]: Frank3033 has made the advancement [Step 5]
+[00:45:05] [Server thread/INFO]: Frank3033 lost connection: Disconnected
+[00:45:05] [Server thread/INFO]: Frank3033 left the game
+[00:45:08] [Server thread/INFO]: Frank3033[/127.119.17.197:50759] logged in with entity id 116 at (-1.097971393575894, 60.5, 0.9928600989983063)
+[00:45:08] [Server thread/INFO]: Frank3033 joined the game
+[00:45:35] [Server thread/INFO]: Frank3033 lost connection: Disconnected
+[00:45:35] [Server thread/INFO]: Frank3033 left the game
+[00:47:04] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/14, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[00:47:04] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/14, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world

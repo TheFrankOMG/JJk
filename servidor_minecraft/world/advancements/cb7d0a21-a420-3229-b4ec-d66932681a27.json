@@ -7805,15 +7805,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "obs:phases/phase_4": {
     "criteria": {
-      "iron_pickaxe": "2025-05-10 03:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-05-10 03:45:28 +0000"
+      "requirement": "2025-05-10 03:41:51 +0000"
     },
     "done": true
   },
@@ -7823,15 +7817,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-10 04:02:56 +0000"
-    },
-    "done": true
-  },
   "obs:ob/furnace": {
     "criteria": {
       "requirement": "2025-05-10 03:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-10 03:45:28 +0000"
     },
     "done": true
   },
@@ -7841,9 +7835,15 @@
     },
     "done": true
   },
-  "obs:phases/phase_4": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "requirement": "2025-05-10 03:41:51 +0000"
+      "iron_pickaxe": "2025-05-10 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-10 04:02:56 +0000"
     },
     "done": true
   },
@@ -7852,6 +7852,12 @@
       "carrot": "2025-05-10 04:02:56 +0000"
     },
     "done": false
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2025-05-13 00:40:51 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
