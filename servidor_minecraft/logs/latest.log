@@ -232,3 +232,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:30:37] [Server thread/INFO]: Frank3033 has made the advancement [Diamonds!]
 [03:31:08] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/866, l='ServerLevel[Oneblock Original v3.0.2]', x=2.57, y=62.17, z=0.28] died, message: 'Mysterious Trader 🧪 was slain by Frank3033'
 [03:31:08] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/866, l='ServerLevel[Oneblock Original v3.0.2]', x=2.57, y=62.17, z=0.28] died: Mysterious Trader 🧪 was slain by Frank3033
+[03:39:16] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/1047, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:39:16] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1047, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:40:25] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/1222, l='ServerLevel[Oneblock Original v3.0.2]', x=-13.48, y=60.50, z=4.51] died, message: 'Mysterious Trader 🧪 was slain by Frank3033'
+[03:40:25] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1222, l='ServerLevel[Oneblock Original v3.0.2]', x=-13.48, y=60.50, z=4.51] died: Mysterious Trader 🧪 was slain by Frank3033
+[03:47:10] [Server thread/INFO]: Sahankiel071727 lost connection: Disconnected
+[03:47:10] [Server thread/INFO]: Sahankiel071727 left the game
+[03:47:15] [Server thread/INFO]: Frank3033 lost connection: Disconnected
+[03:47:15] [Server thread/INFO]: Frank3033 left the game
