@@ -5234,6 +5234,12 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-05-13 01:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-13 01:23:37 +0000"
@@ -7627,6 +7633,12 @@
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2025-05-13 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2025-05-13 01:55:20 +0000"
     },
     "done": true
   },

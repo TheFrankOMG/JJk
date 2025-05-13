@@ -315,3 +315,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [01:53:50] [Server thread/INFO]: Frank3033 has made the advancement [Woodlands]
 [01:55:20] [Server thread/INFO]: Frank3033 has made the advancement [The Builder]
 [01:57:18] [Server thread/INFO]: [Frank3033: Gave 1 [Bucket] to Sahankiel071727]
+[02:01:29] [Server thread/INFO]: Sahankiel071727 has made the advancement [Hot n' Coal]
+[02:03:00] [Server thread/INFO]: Frank3033 has made the advancement [#PlantATree]
+[02:05:10] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/375, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[02:05:10] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/375, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[02:05:24] [Server thread/INFO]: Sahankiel071727 was shot by Skeleton
+[02:05:28] [Server thread/INFO]: Frank3033 was shot by Skeleton
+[02:05:43] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
+[02:06:00] [Server thread/INFO]: [Sahankiel071727: Set spawn point to 0, 61, 0 [0.0] in minecraft:overworld for 2 players]
+[02:06:04] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Survival Mode]
+[02:06:17] [Server thread/INFO]: Sahankiel071727 was shot by Skeleton
+[02:06:22] [Server thread/INFO]: Frank3033 was shot by Skeleton
+[02:07:17] [Server thread/INFO]: Sahankiel071727 has made the advancement [Getting an Upgrade]
