@@ -7819,7 +7819,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-05-13 01:24:31 +0000"
+      "minecraft:skeleton": "2025-05-13 01:48:22 +0000",
+      "minecraft:spider": "2025-05-13 01:24:31 +0000",
+      "minecraft:zombie": "2025-05-13 01:48:27 +0000",
+      "minecraft:creeper": "2025-05-13 01:48:36 +0000"
     },
     "done": false
   },
@@ -7832,6 +7835,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-05-13 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-13 01:46:01 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2025-05-13 01:48:36 +0000"
     },
     "done": true
   },
@@ -7856,6 +7871,12 @@
   "obs:ob/iron": {
     "criteria": {
       "requirement": "2025-05-13 01:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-13 01:42:56 +0000"
     },
     "done": true
   },
