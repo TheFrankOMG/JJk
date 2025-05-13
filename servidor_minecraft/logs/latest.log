@@ -332,3 +332,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02:15:39] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/649, l='ServerLevel[Oneblock Original v3.0.2]', x=-5.69, y=60.50, z=2.65] died, message: 'Mysterious Trader 🧪 was slain by Frank3033'
 [02:15:39] [Server thread/INFO]: Frank3033 has made the advancement [Impostor]
 [02:15:39] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/649, l='ServerLevel[Oneblock Original v3.0.2]', x=-5.69, y=60.50, z=2.65] died: Mysterious Trader 🧪 was slain by Frank3033
+[02:23:37] [Server thread/INFO]: Sahankiel071727 was slain by Frank3033
+[02:25:09] [Server thread/INFO]: Frank3033 has made the advancement [Into the Darkness]
+[02:25:10] [Server thread/INFO]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[02:25:10] [Server thread/INFO]: Frank3033 fell from a high place
+[02:25:41] [Server thread/INFO]: Frank3033 has made the advancement [Take Aim]
+[02:27:24] [Server thread/INFO]: Sahankiel071727 was shot by Skeleton
+[02:27:29] [Server thread/INFO]: Frank3033 was shot by Skeleton
