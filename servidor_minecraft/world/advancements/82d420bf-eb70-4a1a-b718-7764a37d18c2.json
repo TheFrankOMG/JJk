@@ -7874,6 +7874,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-13 02:07:17 +0000"
+    },
+    "done": true
+  },
   "obs:ob/iron": {
     "criteria": {
       "requirement": "2025-05-13 01:29:30 +0000"
@@ -7883,6 +7889,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-13 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-05-13 02:14:35 +0000"
     },
     "done": true
   },

@@ -3716,6 +3716,12 @@
     },
     "done": true
   },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2025-05-13 02:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-13 01:23:37 +0000"
@@ -5726,6 +5732,12 @@
     },
     "done": true
   },
+  "obs:ob/villager": {
+    "criteria": {
+      "requirement": "2025-05-13 02:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_chiseled_copper": {
     "criteria": {
       "has_the_recipe": "2025-05-13 01:23:37 +0000"
@@ -6881,6 +6893,12 @@
   "obs:phases/phase_5": {
     "criteria": {
       "requirement": "2025-05-13 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-05-13 02:14:35 +0000"
     },
     "done": true
   },
