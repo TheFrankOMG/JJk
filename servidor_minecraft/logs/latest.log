@@ -222,3 +222,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [00:45:35] [Server thread/INFO]: Frank3033 left the game
 [00:47:04] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/14, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [00:47:04] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/14, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[00:51:28] [Server thread/INFO]: Frank3033[/127.119.17.197:58631] logged in with entity id 200 at (-0.8340675763889613, 60.5, -0.5170342555758145)
+[00:51:28] [Server thread/INFO]: Frank3033 joined the game
+[00:56:45] [Server thread/INFO]: Sahankiel071727 has made the advancement [Monster Hunter]
+[00:56:48] [Server thread/INFO]: Frank3033 has made the advancement [Monster Hunter]
+[00:56:55] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/192, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[00:56:55] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/192, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
