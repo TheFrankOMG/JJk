@@ -273,3 +273,30 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [01:27:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=61, z=-4}
 [01:27:19] [Server thread/INFO]: [Frank3033: Set Sahankiel071727's game mode to Adventure Mode]
 [01:27:28] [Server thread/INFO]: [Frank3033: Set Sahankiel071727's game mode to Spectator Mode]
+[01:27:38] [Server thread/INFO]: Frank3033 has made the advancement [Stone Age]
+[01:27:38] [Server thread/INFO]: Frank3033 has made the advancement [Cobblemania]
+[01:28:09] [Server thread/INFO]: [Frank3033: Set Sahankiel071727's game mode to Survival Mode]
+[01:28:15] [Server thread/INFO]: Sahankiel071727 was shot by Skeleton
+[01:28:18] [Server thread/INFO]: Sahankiel071727 lost connection: Disconnected
+[01:28:18] [Server thread/INFO]: Sahankiel071727 left the game
+[01:28:39] [User Authenticator #4/INFO]: UUID of player Sahankiel071727 is 82d420bf-eb70-4a1a-b718-7764a37d18c2
+[01:28:41] [Server thread/INFO]: Sahankiel071727[/127.19.237.253:48627] logged in with entity id 59 at (1.1394682429376861, 46.65192666374436, 16.506190871693214)
+[01:28:41] [Server thread/INFO]: Sahankiel071727 joined the game
+[01:28:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=61, z=-2}
+[01:28:59] [Server thread/INFO]: [Frank3033: Made Sahankiel071727 a server operator]
+[01:29:06] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
+[01:29:11] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Survival Mode]
+[01:29:30] [Server thread/INFO]: Sahankiel071727 has made the advancement [I am Iron M...]
+[01:29:30] [Server thread/INFO]: Sahankiel071727 has made the advancement [Acquire Hardware]
+[01:29:52] [Server thread/INFO]: Frank3033 has made the advancement [I am Iron M...]
+[01:29:52] [Server thread/INFO]: Frank3033 has made the advancement [Acquire Hardware]
+[01:29:55] [Server thread/INFO]: Frank3033 has made the advancement [What a Deal!]
+[01:30:03] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/6, l='ServerLevel[Oneblock Original v3.0.2]', x=-3.95, y=-197.23, z=6.52] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[01:30:03] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/6, l='ServerLevel[Oneblock Original v3.0.2]', x=-3.95, y=-197.23, z=6.52] died: Mysterious Trader 🧪 fell out of the world
+[01:31:21] [Server thread/INFO]: Sahankiel071727 has made the advancement [Woodlands]
+[01:31:40] [Server thread/INFO]: Sahankiel071727 has made the advancement [#PlantATree]
+[01:34:53] [Server thread/INFO]: Frank3033 was slain by Sahankiel071727
+[01:34:58] [Server thread/INFO]: Sahankiel071727 was killed
+[01:34:58] [Server thread/INFO]: [Frank3033: Killed Sahankiel071727]
+[01:36:39] [Server thread/INFO]: Frank3033 has made the advancement [Getting an Upgrade]
+[01:37:07] [Server thread/INFO]: Frank3033 has made the advancement [Hot n' Coal]
