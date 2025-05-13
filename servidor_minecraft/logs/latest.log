@@ -207,3 +207,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02:41:17] [User Authenticator #1/INFO]: UUID of player Sahankiel071727 is 82d420bf-eb70-4a1a-b718-7764a37d18c2
 [02:41:18] [Server thread/INFO]: Sahankiel071727[/127.19.237.253:38775] logged in with entity id 2 at (0.9233913960924401, 60.5, -3.5038893356965066)
 [02:41:18] [Server thread/INFO]: Sahankiel071727 joined the game
+[02:49:22] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
+[02:49:33] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Survival Mode]
