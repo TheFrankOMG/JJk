@@ -7865,6 +7865,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-13 01:46:05 +0000",
+      "minecraft:phantom": "2025-05-14 03:16:49 +0000",
       "minecraft:spider": "2025-05-13 01:46:25 +0000",
       "minecraft:zombie": "2025-05-13 01:46:31 +0000",
       "minecraft:creeper": "2025-05-13 01:45:58 +0000"
@@ -7952,6 +7953,12 @@
   "obs:ob/diamond": {
     "criteria": {
       "requirement": "2025-05-13 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/phantom": {
+    "criteria": {
+      "requirement": "2025-05-14 03:16:49 +0000"
     },
     "done": true
   },
