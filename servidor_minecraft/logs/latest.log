@@ -240,3 +240,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:16:49] [Server thread/INFO]: Frank3033 has made the advancement [Phasmophobia]
 [03:17:14] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/755, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [03:17:14] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/755, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:25:41] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/935, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:25:41] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/935, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:26:26] [Server thread/INFO]: Frank3033 has made the advancement [A Seedy Place]
+[03:28:18] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
