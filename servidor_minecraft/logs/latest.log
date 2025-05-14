@@ -216,3 +216,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [01:25:46] [Server thread/INFO]: [Not Secure] [Server] nose
 [01:26:01] [Server thread/INFO]: [Not Secure] [Server] se cayo al vacio xD
 [01:26:18] [Server thread/INFO]: [Not Secure] [Server] claro pes
+[01:58:36] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/321, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[01:58:36] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/321, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[01:59:35] [Server thread/INFO]: Sahankiel071727 lost connection: Timed out
+[01:59:35] [Server thread/INFO]: Sahankiel071727 left the game
+[01:59:35] [Server thread/WARN]: handleDisconnection() called twice
+[01:59:52] [User Authenticator #2/INFO]: UUID of player Sahankiel071727 is 82d420bf-eb70-4a1a-b718-7764a37d18c2
+[01:59:54] [Server thread/INFO]: Sahankiel071727[/127.236.21.17:41923] logged in with entity id 526 at (-0.3690405965988757, 60.5, 0.8039293531118136)
+[01:59:54] [Server thread/INFO]: Sahankiel071727 joined the game
