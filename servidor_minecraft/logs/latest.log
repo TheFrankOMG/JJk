@@ -244,3 +244,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:25:41] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/935, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [03:26:26] [Server thread/INFO]: Frank3033 has made the advancement [A Seedy Place]
 [03:28:18] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
+[03:29:01] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Survival Mode]
+[03:29:38] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/1192, l='ServerLevel[Oneblock Original v3.0.2]', x=-10.36, y=60.50, z=-5.14] died, message: 'Mysterious Trader 🧪 was slain by Frank3033'
+[03:29:38] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1192, l='ServerLevel[Oneblock Original v3.0.2]', x=-10.36, y=60.50, z=-5.14] died: Mysterious Trader 🧪 was slain by Frank3033
+[03:31:19] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Creative Mode]
+[03:31:29] [Server thread/INFO]: [Sahankiel071727: Set own game mode to Survival Mode]
+[03:32:21] [Server thread/INFO]: [Frank3033: Created new objective [Health]]
+[03:42:03] [Server thread/INFO]: Frank3033 has made the advancement [Glistening]
+[03:44:50] [Server thread/INFO]: Sahankiel071727 has made the advancement [Step 8]
+[03:44:50] [Server thread/INFO]: Frank3033 has made the advancement [Step 8]
+[03:45:00] [Server thread/INFO]: Frank3033 lost connection: Disconnected
+[03:45:00] [Server thread/INFO]: Frank3033 left the game
+[03:45:04] [Server thread/INFO]: Sahankiel071727 lost connection: Disconnected
+[03:45:04] [Server thread/INFO]: Sahankiel071727 left the game

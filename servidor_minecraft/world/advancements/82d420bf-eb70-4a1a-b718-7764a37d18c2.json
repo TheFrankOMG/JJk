@@ -7949,6 +7949,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-05-14 03:44:50 +0000"
+    },
+    "done": true
+  },
   "obs:phases/dirt_6": {
     "criteria": {
       "requirement": "2025-05-14 02:28:16 +0000"
