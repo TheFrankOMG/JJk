@@ -7898,17 +7898,17 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-05-13 03:28:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-13 03:13:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-05-13 03:13:55 +0000"
+    },
+    "done": false
   },
   "obs:ob/redstone": {
     "criteria": {
@@ -7922,11 +7922,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "baked_potato": "2025-05-13 03:13:55 +0000"
+      "iron_pickaxe": "2025-05-13 03:28:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
