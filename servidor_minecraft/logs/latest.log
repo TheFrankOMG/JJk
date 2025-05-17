@@ -214,3 +214,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:33:53] [Server thread/INFO]: Sahankiel071727 has made the advancement [Hidden in the Depths]
 [03:34:38] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/5, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [03:34:38] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/5, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:39:32] [Server thread/INFO]: [Frank3033: Applied effect Regeneration to Sahankiel071727]
+[03:39:39] [Server thread/INFO]: Sahankiel071727 has made the advancement [Glistening]
+[03:42:23] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/150, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:42:23] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/150, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:47:05] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/332, l='ServerLevel[Oneblock Original v3.0.2]', x=0.98, y=-1048.16, z=0.43] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:47:05] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/332, l='ServerLevel[Oneblock Original v3.0.2]', x=0.98, y=-1048.16, z=0.43] died: Mysterious Trader 🧪 fell out of the world
+[03:47:48] [Server thread/INFO]: Frank3033 has made the advancement [Hidden in the Depths]
+[03:51:26] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/490, l='ServerLevel[Oneblock Original v3.0.2]', x=0.61, y=-1048.16, z=0.06] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:51:26] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/490, l='ServerLevel[Oneblock Original v3.0.2]', x=0.61, y=-1048.16, z=0.06] died: Mysterious Trader 🧪 fell out of the world
+[03:51:44] [Server thread/INFO]: Frank3033 has made the advancement [Farm Ville Gers]
+[03:51:44] [Server thread/INFO]: Villager class_1646['Talha'/694, l='ServerLevel[Oneblock Original v3.0.2]', x=-8.63, y=-269.42, z=-8.31] died, message: 'Talha fell out of the world'
+[03:51:44] [Server thread/INFO]: Named entity class_1646['Talha'/694, l='ServerLevel[Oneblock Original v3.0.2]', x=-8.63, y=-269.42, z=-8.31] died: Talha fell out of the world
