@@ -7961,9 +7961,21 @@
     },
     "done": true
   },
+  "obs:ob/farmer": {
+    "criteria": {
+      "carrot": "2025-05-17 03:57:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-17 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-17 03:56:45 +0000"
     },
     "done": true
   },

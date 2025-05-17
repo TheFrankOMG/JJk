@@ -226,3 +226,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:51:44] [Server thread/INFO]: Frank3033 has made the advancement [Farm Ville Gers]
 [03:51:44] [Server thread/INFO]: Villager class_1646['Talha'/694, l='ServerLevel[Oneblock Original v3.0.2]', x=-8.63, y=-269.42, z=-8.31] died, message: 'Talha fell out of the world'
 [03:51:44] [Server thread/INFO]: Named entity class_1646['Talha'/694, l='ServerLevel[Oneblock Original v3.0.2]', x=-8.63, y=-269.42, z=-8.31] died: Talha fell out of the world
+[03:56:45] [Server thread/INFO]: Sahankiel071727 has made the advancement [What a Deal!]
+[03:57:06] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/702, l='ServerLevel[Oneblock Original v3.0.2]', x=0.78, y=-1048.16, z=0.80] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:57:06] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/702, l='ServerLevel[Oneblock Original v3.0.2]', x=0.78, y=-1048.16, z=0.80] died: Mysterious Trader 🧪 fell out of the world
+[03:57:11] [Server thread/INFO]: [Frank3033: Set own game mode to Creative Mode]
+[03:57:26] [Server thread/INFO]: [Frank3033: Set own game mode to Survival Mode]
+[03:58:01] [Server thread/INFO]: Frank3033 has made the advancement [Vegaterian Option]
+[04:05:34] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/889, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[04:05:34] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/889, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world

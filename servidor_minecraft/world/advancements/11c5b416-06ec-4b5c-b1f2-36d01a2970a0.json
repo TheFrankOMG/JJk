@@ -7983,9 +7983,21 @@
     },
     "done": true
   },
+  "obs:ob/mob": {
+    "criteria": {
+      "requirement": "2025-05-17 03:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-17 03:47:48 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/vege": {
+    "criteria": {
+      "requirement": "2025-05-17 03:58:01 +0000"
     },
     "done": true
   },
