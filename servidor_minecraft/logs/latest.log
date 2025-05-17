@@ -240,3 +240,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [04:19:38] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1313, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [04:21:05] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/1506, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [04:21:05] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1506, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[04:34:35] [Server thread/INFO]: Villager class_1646['Mysterious Trader 🧪'/1681, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[04:34:35] [Server thread/INFO]: Named entity class_1646['Mysterious Trader 🧪'/1681, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
