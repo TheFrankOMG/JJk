@@ -1,0 +1,15 @@
+[22:05:12.466][INFO]: Parsing all .json files in machines folder.
+[22:05:12.474][INFO]: Finished, 2 .json files successfully parsed in machines folder.
+[22:05:12.474][INFO]: Parsing all .json files in upgrades folder.
+[22:05:12.480][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[22:05:14.135][INFO]: Reading Custom Machinery Machines...
+[22:05:14.136][INFO]: Parsing machine json: custom_machines:ground_sifter in datapack: kubejs
+[22:05:14.151][INFO]: Successfully parsed machine json: custom_machines:ground_sifter
+[22:05:14.152][INFO]: Parsing machine json: custom_machines:microgravity_centrifuge in datapack: kubejs
+[22:05:14.153][INFO]: Successfully parsed machine json: custom_machines:microgravity_centrifuge
+[22:05:14.153][INFO]: Finished creating custom machines.
+[22:05:14.154][INFO]: Reading Custom Machinery Upgrades json
+[22:05:14.154][INFO]: No machine upgrade json found.
+[22:05:14.154][INFO]: Collecting machine upgrades with kubeJS.
+[22:05:14.156][INFO]: No machine upgrades found with kubejs
+[22:05:14.156][INFO]: Finished creating custom machine upgrades.

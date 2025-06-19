@@ -1,0 +1,38 @@
+[22:05:09] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[22:05:09] [INIT] Loaded plugins:
+[22:05:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:05:09] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[22:05:09] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[22:05:09] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[22:05:09] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[22:05:09] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[22:05:09] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:05:09] [INFO] Loaded script server_scripts:extra_integration.js in 0.003 s
+[22:05:09] [INFO] Loaded script server_scripts:scripts.js in 0.001 s
+[22:05:10] [INFO] Loaded script server_scripts:removed_recipes.js in 0.017 s
+[22:05:10] [INFO] server_scripts:added_recipes.js:3: Just Monika.
+[22:05:10] [INFO] Loaded script server_scripts:added_recipes.js in 0.033 s
+[22:05:10] [INFO] Loaded script server_scripts:tags.js in 0.001 s
+[22:05:10] [INFO] Loaded script server_scripts:sequenced_assemblies.js in 0.004 s
+[22:05:10] [INFO] Loaded 6/6 KubeJS server scripts in 0.077 s
+[22:05:10] [INFO] Scripts loaded
+[22:05:10] [INFO] Initializing recipe event...
+[22:05:11] [INFO] [minecraft:fluid] Found 54 tags, added 1 objects, removed 8 objects
+[22:05:12] [INFO] [minecraft:item] Found 1210 tags, added 3 objects, removed 1 objects
+[22:05:13] [INFO] Processing recipes...
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_veridium[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_veridium_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_ochrum_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_crimsite_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_asurine[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_zinc_ore[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_ochrum[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_crimsite[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [WARN] Failed to parse recipe 'create:mixing/mud_by_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid fluid ingredient: {"type":"create:block_tag_ingredient","tag":"minecraft:convertable_to_mud"}
+[22:05:13] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_asurine_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[22:05:13] [INFO] Found 8270 recipes in 261.3 ms
+[22:05:13] [INFO] Posted recipe events in 276.3 ms
+[22:05:13] [WARN] Duplicate recipe for id create:kjs_aze6v8tvfghefxb4vhvatm9l7! Using last one encountered.
+[22:05:13] [WARN] You might want to check your scripts for errors.
+[22:05:13] [INFO] Added 217 recipes, removed 320 recipes, modified 1 recipes, with 0 failed recipes in 132.1 ms
+[22:05:14] [INFO] Collecting Custom Machine upgrades from JS scripts.
