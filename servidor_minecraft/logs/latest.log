@@ -1209,3 +1209,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Jun2025 23:36:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Acquire Hardware]
 [19Jun2025 23:37:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Isn't It Iron Pick]
 [19Jun2025 23:37:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [It Bites]
+[19Jun2025 23:43:05.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
+[19Jun2025 23:45:22.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-23, y=78, z=-22}
+[19Jun2025 23:46:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Not Today, Thank You]
+[19Jun2025 23:47:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
+[19Jun2025 23:47:46.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[19Jun2025 23:47:46.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[19Jun2025 23:47:46.863] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[19Jun2025 23:48:05.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
+[19Jun2025 23:48:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
+[19Jun2025 23:48:05.608] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
