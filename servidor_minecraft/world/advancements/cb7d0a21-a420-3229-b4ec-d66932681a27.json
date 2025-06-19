@@ -151,6 +151,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-19 23:32:09 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
@@ -218,6 +224,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-06-19 23:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-19 22:36:44 +0000"
@@ -233,6 +245,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-19 23:31:54 +0000"
     },
     "done": true
   },
@@ -265,6 +283,13 @@
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-06-19 23:31:56 +0000",
+      "opened_chest": "2025-06-19 23:31:54 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black_from_white": {
     "criteria": {
@@ -334,7 +359,9 @@
     "criteria": {
       "cooked_mutton": "2025-06-19 22:44:27 +0000",
       "cooked_beef": "2025-06-19 22:51:10 +0000",
+      "mutton": "2025-06-19 23:37:42 +0000",
       "bread": "2025-06-19 23:21:02 +0000",
+      "rotten_flesh": "2025-06-19 23:32:08 +0000",
       "cooked_chicken": "2025-06-19 22:43:58 +0000"
     },
     "done": false
@@ -540,6 +567,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-19 23:31:56 +0000"
     },
     "done": true
   },
