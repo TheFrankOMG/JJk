@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-06-19 23:18:45 +0000",
       "minecraft:stony_shore": "2025-06-19 22:57:12 +0000",
       "minecraft:savanna": "2025-06-19 22:56:38 +0000"
     },
@@ -159,6 +160,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-19 22:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-19 23:14:45 +0000"
     },
     "done": true
   },
@@ -294,6 +301,14 @@
       "has_the_recipe": "2025-06-19 22:56:37 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-06-19 23:27:56 +0000",
+      "beef": "2025-06-19 23:21:54 +0000",
+      "rotten_flesh": "2025-06-19 23:14:45 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_yellow_from_white": {
     "criteria": {

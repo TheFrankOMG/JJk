@@ -132,6 +132,8 @@
       "minecraft:river": "2025-06-19 22:34:34 +0000",
       "minecraft:stony_shore": "2025-06-19 22:33:53 +0000",
       "minecraft:dripstone_caves": "2025-06-19 22:56:56 +0000",
+      "minecraft:forest": "2025-06-19 23:23:28 +0000",
+      "minecraft:deep_dark": "2025-06-19 23:24:15 +0000",
       "minecraft:savanna": "2025-06-19 22:32:30 +0000",
       "minecraft:plains": "2025-06-19 22:55:36 +0000"
     },
@@ -176,6 +178,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-06-19 23:15:01 +0000"
     },
     "done": true
   },
@@ -246,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-19 23:16:58 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
@@ -293,6 +307,7 @@
       "minecraft:skeleton": "2025-06-19 22:47:37 +0000",
       "minecraft:spider": "2025-06-19 22:43:25 +0000",
       "minecraft:creeper": "2025-06-19 22:55:13 +0000",
+      "minecraft:zombie": "2025-06-19 23:15:33 +0000",
       "minecraft:zombie_villager": "2025-06-19 23:10:02 +0000"
     },
     "done": false
@@ -319,6 +334,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-19 22:44:27 +0000",
       "cooked_beef": "2025-06-19 22:51:10 +0000",
+      "bread": "2025-06-19 23:21:02 +0000",
       "cooked_chicken": "2025-06-19 22:43:58 +0000"
     },
     "done": false
@@ -350,6 +366,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-06-19 23:16:11 +0000"
     },
     "done": true
   },
@@ -419,6 +441,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-19 23:16:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
@@ -461,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-19 23:16:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
@@ -494,6 +528,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-19 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-19 23:15:01 +0000"
     },
     "done": true
   },

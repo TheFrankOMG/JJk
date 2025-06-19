@@ -1199,3 +1199,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Jun2025 23:16:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Isn't It Iron Pick]
 [19Jun2025 23:16:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Diamonds!]
 [19Jun2025 23:16:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Not Today, Thank You]
+[19Jun2025 23:27:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
