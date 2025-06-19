@@ -1,35 +1,55 @@
-[22:05:12.466][INFO]: Parsing all .json files in machines folder.
-[22:05:12.474][INFO]: Finished, 2 .json files successfully parsed in machines folder.
-[22:05:12.474][INFO]: Parsing all .json files in upgrades folder.
-[22:05:12.480][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[22:05:14.135][INFO]: Reading Custom Machinery Machines...
-[22:05:14.136][INFO]: Parsing machine json: custom_machines:ground_sifter in datapack: kubejs
-[22:05:14.151][INFO]: Successfully parsed machine json: custom_machines:ground_sifter
-[22:05:14.152][INFO]: Parsing machine json: custom_machines:microgravity_centrifuge in datapack: kubejs
-[22:05:14.153][INFO]: Successfully parsed machine json: custom_machines:microgravity_centrifuge
-[22:05:14.153][INFO]: Finished creating custom machines.
-[22:05:14.154][INFO]: Reading Custom Machinery Upgrades json
-[22:05:14.154][INFO]: No machine upgrade json found.
-[22:05:14.154][INFO]: Collecting machine upgrades with kubeJS.
-[22:05:14.156][INFO]: No machine upgrades found with kubejs
-[22:05:14.156][INFO]: Finished creating custom machine upgrades.
-[22:22:44.409][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
-[22:22:44.411][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
-[22:22:44.418][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
-[22:22:44.419][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
-[22:22:44.438][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
-[22:22:44.439][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
-[22:22:44.479][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
-[22:22:44.479][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
-[22:22:44.506][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
-[22:22:44.506][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
-[22:22:44.567][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
-[22:22:44.568][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
-[22:22:44.572][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
-[22:22:44.573][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
-[22:22:44.583][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
-[22:22:44.583][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
-[22:22:44.607][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
-[22:22:44.610][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
-[22:22:44.643][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
-[22:22:44.644][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
+[23:08:08.939][INFO]: Parsing all .json files in machines folder.
+[23:08:08.947][INFO]: Finished, 2 .json files successfully parsed in machines folder.
+[23:08:08.947][INFO]: Parsing all .json files in upgrades folder.
+[23:08:08.955][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[23:08:10.535][INFO]: Reading Custom Machinery Machines...
+[23:08:10.536][INFO]: Parsing machine json: custom_machines:ground_sifter in datapack: kubejs
+[23:08:10.553][INFO]: Successfully parsed machine json: custom_machines:ground_sifter
+[23:08:10.554][INFO]: Parsing machine json: custom_machines:microgravity_centrifuge in datapack: kubejs
+[23:08:10.556][INFO]: Successfully parsed machine json: custom_machines:microgravity_centrifuge
+[23:08:10.556][INFO]: Finished creating custom machines.
+[23:08:10.556][INFO]: Reading Custom Machinery Upgrades json
+[23:08:10.557][INFO]: No machine upgrade json found.
+[23:08:10.557][INFO]: Collecting machine upgrades with kubeJS.
+[23:08:10.558][INFO]: No machine upgrades found with kubejs
+[23:08:10.558][INFO]: Finished creating custom machine upgrades.
+[23:08:45.194][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
+[23:08:45.196][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
+[23:08:45.229][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
+[23:08:45.231][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
+[23:08:45.250][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
+[23:08:45.250][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
+[23:08:45.323][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
+[23:08:45.323][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
+[23:08:45.340][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
+[23:08:45.341][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
+[23:08:45.376][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
+[23:08:45.378][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
+[23:08:45.400][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
+[23:08:45.401][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
+[23:08:45.411][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
+[23:08:45.413][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
+[23:08:45.454][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
+[23:08:45.454][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
+[23:08:45.469][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
+[23:08:45.470][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
+[23:08:49.556][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
+[23:08:49.557][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
+[23:08:49.567][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
+[23:08:49.568][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
+[23:08:49.575][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
+[23:08:49.575][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
+[23:08:49.685][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
+[23:08:49.686][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
+[23:08:49.693][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
+[23:08:49.694][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
+[23:08:49.778][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients
+[23:08:49.780][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 to clients.
+[23:08:49.793][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients
+[23:08:49.794][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 to clients.
+[23:08:49.802][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients
+[23:08:49.804][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 to clients.
+[23:08:49.864][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients
+[23:08:49.865][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 to clients.
+[23:08:49.878][INFO]: Sending recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients
+[23:08:49.880][INFO]: Sucessfully send recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 to clients.
