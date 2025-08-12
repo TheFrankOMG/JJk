@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "brand-dv.gl.joinmc.link",
-          "assigned_srv": "brand-dv.gl.joinmc.link",
+          "assigned_domain": "oh-variables.gl.joinmc.link",
+          "assigned_srv": "oh-variables.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "a7d9fc24-3d84-4051-b18f-8c8d405a377b",
+          "id": "10473f60-36e3-4427-8eb7-9d54052d250e",
           "ip_hostname": "30.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 33113,
-          "port_start": 33112,
+          "port_end": 60383,
+          "port_start": 60382,
           "region": "global",
           "static_ip4": "147.185.221.30",
           "static_ip6": "2602:fbaf:0:1::1e",
@@ -26,17 +26,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-25T05:38:31.544807Z",
+      "created_at": "2025-08-12T22:48:40.120494Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "71b2a65a-df68-45ae-bdb9-eb158b4e6554",
+      "id": "7d546131-922c-4f66-9b7b-89d191234a93",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "18165b74-10ac-499a-bce0-cc52d74b53c9",
-          "agent_name": "Los tung tung Sahur",
+          "agent_id": "f23b1c3d-5f1b-4bf7-9b41-6f2f4bd18cb8",
+          "agent_name": "Create",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },

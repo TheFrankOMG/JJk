@@ -1,30 +1,59 @@
-[17:14:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:14:29] [ServerMain/INFO]: Loaded 1407 recipes
-[17:14:29] [ServerMain/INFO]: Loaded 1520 advancements
-[17:14:29] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[17:14:29] [Server thread/INFO]: Loading properties
-[17:14:29] [Server thread/INFO]: Default game type: SURVIVAL
-[17:14:29] [Server thread/INFO]: Generating keypair
-[17:14:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:14:30] [Server thread/INFO]: Using epoll channel type
-[17:14:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:14:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:14:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:14:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:14:30] [Server thread/INFO]: Preparing level "world"
-[17:14:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:14:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[17:14:33] [Server thread/INFO]: Time elapsed: 3558 ms
-[17:14:33] [Server thread/INFO]: Done (3.828s)! For help, type "help"
-[17:15:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:23:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:23:10] [Server thread/INFO]: start<--[HERE]
-[17:23:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:23:13] [Server thread/INFO]: start<--[HERE]
+[12Aug2025 22:49:51.995] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[12Aug2025 22:49:51.997] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[12Aug2025 22:49:51.998] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[12Aug2025 22:49:52.064] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/JJk/servidor_minecraft/config/fml.toml is not correct. Correcting
+[12Aug2025 22:49:52.066] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[12Aug2025 22:49:52.067] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[12Aug2025 22:49:52.067] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[12Aug2025 22:49:52.068] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[12Aug2025 22:49:52.125] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[12Aug2025 22:49:52.209] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/JJk/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[12Aug2025 22:49:52.741] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[12Aug2025 22:49:53.529] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[12Aug2025 22:49:53.756] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[12Aug2025 22:49:53.860] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/JJk/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[12Aug2025 22:49:58.700] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[12Aug2025 22:49:58.701] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[12Aug2025 22:49:58.707] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[12Aug2025 22:49:58.970] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[12Aug2025 22:49:59.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Aug2025 22:50:00.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[12Aug2025 22:50:00.801] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12Aug2025 22:50:01.628] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[12Aug2025 22:50:02.273] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[12Aug2025 22:50:02.493] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[12Aug2025 22:50:03.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[12Aug2025 22:50:03.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Aug2025 22:50:03.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Aug2025 22:50:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Aug2025 22:50:03.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Aug2025 22:50:03.500] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Aug2025 22:50:03.551] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Aug2025 22:50:03.552] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Aug2025 22:50:03.552] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Aug2025 22:50:03.552] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Aug2025 22:50:03.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[12Aug2025 22:50:03.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[12Aug2025 22:50:03.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[12Aug2025 22:50:03.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[12Aug2025 22:50:03.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[12Aug2025 22:50:03.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[12Aug2025 22:50:03.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[12Aug2025 22:50:03.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Aug2025 22:50:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Aug2025 22:50:11.242] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[12Aug2025 22:50:11.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[12Aug2025 22:50:12.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[12Aug2025 22:50:12.704] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[12Aug2025 22:50:13.210] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[12Aug2025 22:50:13.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[12Aug2025 22:50:14.199] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[12Aug2025 22:50:14.703] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[12Aug2025 22:50:15.201] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[12Aug2025 22:50:15.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[12Aug2025 22:50:16.203] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[12Aug2025 22:50:16.297] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5100 ms
+[12Aug2025 22:50:16.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.732s)! For help, type "help"
+[12Aug2025 22:50:16.310] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Aug2025 22:50:16.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Aug2025 22:50:16.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python "/workspaces/JJk/msx (1).py"<--[HERE]
